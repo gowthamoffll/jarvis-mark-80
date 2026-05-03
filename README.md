@@ -24,5 +24,5 @@ Before running the system, ensure you have:
 ## 🔧 Installation & Setup
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com//jarvis-ai.git](https://github.com/your-username/jarvis-ai.git)
+   git clone [https://github.com/gowthamoffll/jarvis-mark-80](https://github.com/gowthamoffll/jarvis-mark-80)
    cd jarvis-ai
